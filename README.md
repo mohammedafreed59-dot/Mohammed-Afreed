@@ -24,6 +24,7 @@ This project focuses on cleaning, analyzing, and visualizing patient health reco
 - KPI cards for patient counts and health indicators.
 - Interactive slicers for gender, city, and disease status.
 - Visual comparisons by age group, gender, city, diabetes, smoking, and cholesterol.
+- mini project https://1drv.ms/x/c/09147b196200a03d/IQD68UskcREFTLUtvZZr8soHAUsYR6VmWkpb1mTX7hydYfc?e=vQgK8a
 
 ## Important Note
 Disease status is missing for some records. These records are treated as unknown rather than classified as either having or not having a disease.
